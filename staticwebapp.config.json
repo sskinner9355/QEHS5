@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/profile",
-      "redirect": "http://qehs.hilmarcheese.com",
+      "redirect": "https://black-island-0e6e94110.2.azurestaticapps.net",
       "statusCode": 301,
       "allowedRoles": [
         "anonymous"
