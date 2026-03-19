@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/profile",
+      "redirect": "http://qehs.hilmarcheese.com",
+      "statusCode": 301,
+      "allowedRoles": [
+        "anonymous"
+      ]
+    }
+  ]
+}
