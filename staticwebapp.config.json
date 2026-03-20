@@ -2,6 +2,13 @@
   "routes": [
     {
       "route": "/profile",
+      "methods": [
+        "head",
+        "post",
+        "put",
+        "connect",
+        "patch"
+      ],
       "redirect": "https://black-island-0e6e94110.2.azurestaticapps.net",
       "statusCode": 301,
       "allowedRoles": [
